@@ -1,5 +1,5 @@
 {
-  "name": "flow-util",
+  "name": "flow-utils",
   "version": "1.0.0",
   "description": "Utils for the flow framework",
   "main": "lib/index.js",
